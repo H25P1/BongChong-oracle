@@ -74,6 +74,7 @@
 ## Short Codes
 
 - `/rrr` — สรุป session
+- `/forward` — ส่งต่อ session ให้ตัวถัดไป
 - `/trace` — ค้นหาอะไรก็ได้
 - `/learn` — เรียนรู้ codebase
 - `/philosophy` — ทบทวนหลักการ
