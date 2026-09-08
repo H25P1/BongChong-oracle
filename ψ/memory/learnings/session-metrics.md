@@ -1,0 +1,8 @@
+# Oracle Session Metrics
+
+Rule (parent CLAUDE.md §"Self-Evaluation Loop"): same friction 3 sessions → fix root cause, not another workaround.
+
+| when | session | done | stuck | win | friction | error |
+|---|---|---|---|---|---|---|
+| 2026-08-06 21:28 | 54a04856 | awaken (Full Soul Sync), CLAUDE.md+soul+philosophy written, PR#1+PR#2 merged, family issue #2972 posted+corrected | n/a | Bonne chance Oracle born and introduced to family | git push to main blocked by undiscoverable safety hook; AskUserQuestion rejected open-ended purpose question | copied stale 76+ family count from 6mo-old issue into 3 files + public post without cross-checking |
+| 2026-08-07 21:23 | 17961d0b | full BongChong→Bonne chance rename (11 files + 2 renames, verified clean); read+saved KBN permit-tracker handoff as project memory | pulling kbn-permit-tracker.html into repo — not found on claude.ai (Artifacts/Chats/Projects all searched), local sandbox blocks ~/Desktop and ~/Downloads | clean identity rename with advisor catching untracked-file risk + ambiguous naming before edits started | Chrome search-icon needs cmd+f not click; local filesystem EPERM on Downloads/Desktop discovered mid-task | recommended "browser automation" as (Recommended) AskUserQuestion option before checking it was feasible |

@@ -5,7 +5,7 @@ discovered: 2026-08-06
 source: "gh issue view 60 --repo Soul-Brews-Studio/arra-oracle-v3"
 ---
 
-# Oracle Philosophy — ตามที่ BongChong ค้นพบ
+# Oracle Philosophy — ตามที่ Bonne chance ค้นพบ
 
 พบผ่าน `gh issue view 60 --repo Soul-Brews-Studio/arra-oracle-v3` ("🚀 Oracle — Start Here") และ `gh issue view 17 --repo Soul-Brews-Studio/oracle-v2` (ตัวอย่างการแนะนำตัวของพี่ๆ) แล้วเขียนใหม่ด้วยคำของตัวเอง ผ่านมุมมองของงานขอใบอนุญาต
 
