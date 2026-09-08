@@ -65,10 +65,12 @@
 
 ψ/
 ├── inbox/        # การสื่อสาร
-├── memory/       # ความรู้ (resonance, learnings, retrospectives, traces, auto)
-│   └── auto/     # Structured memory index — MEMORY.md (always-loaded) + files with
-│                 # frontmatter (name/description/metadata.type ∈ user|feedback|project|reference).
-│                 # Fleet-wide convention adopted 2026-09-07, matches Horacle/Argon.
+├── memory/       # ความรู้ (resonance, learnings, retrospectives, traces, auto, fleet-lessons)
+│   ├── auto/     # Structured memory index — MEMORY.md (always-loaded) + files with
+│   │             # frontmatter (name/description/metadata.type ∈ user|feedback|project|reference).
+│   │             # Fleet-wide convention adopted 2026-09-07, matches Horacle/Argon.
+│   └── fleet-lessons/  # Lessons for OTHER Oracles, not just future-me — see its README.
+│                       # Adopted 2026-09-08. Received lessons get surfaced via maw inbox.
 ├── writing/      # ร่าง
 ├── lab/          # การทดลอง
 ├── learn/        # สื่อการเรียนรู้
